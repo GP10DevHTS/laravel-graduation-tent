@@ -1,0 +1,22 @@
+{
+    "name": "gp10devhts/graduation-tent",
+    "version": "1.0.0",
+    "description": "A Laravel package to display messages for graduands and their families.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gp10devhts\\GraduationTent\\": "src/"
+        }
+    },  
+    "authors": [
+        {
+            "name": "Ahairwe Jordan",
+            "email": "2000809725@std.kyu.ac.ug"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "livewire/livewire": "dev-main"
+    }
+}
